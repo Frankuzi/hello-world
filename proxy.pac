@@ -3,7 +3,7 @@ var domains = {
     "*.hfut1609.top": 1
 };
 
-var proxy = "SOCKS5 192.168.123.1:7891;";
+var proxy = "SOCKS5 192.168.123.1:7891;PROXY 192.168.123.1:7890;";
 
 var direct = 'DIRECT;';
 
